@@ -1,0 +1,14 @@
+{
+  "clientes": [
+    {
+      "nombre": "luis",
+      "apellido": "navarro",
+      "email": "luisnavarro19890603@gmail.com",
+      "telefono": "111-111-1111",
+      "empresa": "Codigo Facil",
+      "puesto": "DeV",
+      "estado": true,
+      "id": 2
+    }
+  ]
+}
